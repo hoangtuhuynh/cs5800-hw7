@@ -1,0 +1,56 @@
+===== Singleton check =====
+One abstract factory: true
+One Carbs factory: true
+One Protein factory: true
+One Fats factory: true
+
+===== Allowed foods per diet plan =====
+No Restriction:
+  Carbs: [Cheese, Bread, Lentils, Pistachio]
+  Protein: [Fish, Chicken, Beef, Tofu]
+  Fats: [Avocado, Sour cream, Tuna, Peanuts]
+Paleo:
+  Carbs: [Pistachio]
+  Protein: [Fish, Chicken, Beef]
+  Fats: [Avocado, Tuna, Peanuts]
+Vegan:
+  Carbs: [Bread, Lentils, Pistachio]
+  Protein: [Tofu]
+  Fats: [Avocado, Peanuts]
+Nut Allergy:
+  Carbs: [Cheese, Bread, Lentils]
+  Protein: [Fish, Chicken, Beef, Tofu]
+  Fats: [Avocado, Sour cream, Tuna]
+
+===== Meals =====
+
+Customer: Alice (No Restriction)
+  Carbs:   Pistachio
+  Protein: Tofu
+  Fats:    Sour cream
+
+Customer: Bob (Paleo)
+  Carbs:   Pistachio
+  Protein: Fish
+  Fats:    Avocado
+
+Customer: Carol (Vegan)
+  Carbs:   Pistachio
+  Protein: Tofu
+  Fats:    Peanuts
+
+Customer: David (Nut Allergy)
+  Carbs:   Cheese
+  Protein: Tofu
+  Fats:    Avocado
+
+Customer: Emma (Paleo)
+  Carbs:   Pistachio
+  Protein: Fish
+  Fats:    Avocado
+
+Customer: Frank (Vegan)
+  Carbs:   Bread
+  Protein: Tofu
+  Fats:    Avocado
+

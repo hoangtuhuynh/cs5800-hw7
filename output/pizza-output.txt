@@ -1,0 +1,63 @@
+===== Part 1: Pizza Hut (3, 6 and 9 toppings) =====
+
+Eating a Small Pizza Hut pizza with 3 toppings:
+  - Pepperoni
+  - Mushrooms
+  - Extra Cheese
+
+Eating a Medium Pizza Hut pizza with 6 toppings:
+  - Sausage
+  - Bacon
+  - Onions
+  - Peppers
+  - Olives
+  - Beef
+
+Eating a Large Pizza Hut pizza with 9 toppings:
+  - Chicken
+  - Spinach
+  - Tomato and Basil
+  - Ham
+  - Pesto
+  - Spicy Pork
+  - Ham and Pineapple
+  - Mushrooms
+  - Extra Cheese
+
+===== Part 2: Pizza Hut, Little Caesars and Dominos =====
+
+Eating a Large Pizza Hut pizza with 3 toppings:
+  - Pepperoni
+  - Sausage
+  - Mushrooms
+
+Eating a Small Pizza Hut pizza with 2 toppings:
+  - Bacon
+  - Onions
+
+Eating a Medium Little Caesars pizza with 8 toppings:
+  - Pepperoni
+  - Sausage
+  - Mushrooms
+  - Bacon
+  - Onions
+  - Extra Cheese
+  - Peppers
+  - Chicken
+
+Eating a Small Little Caesars pizza with 6 toppings:
+  - Olives
+  - Spinach
+  - Tomato and Basil
+  - Beef
+  - Ham
+  - Pesto
+
+Eating a Small Dominos pizza with 1 topping:
+  - Ham and Pineapple
+
+Eating a Large Dominos pizza with 3 toppings:
+  - Spicy Pork
+  - Peppers
+  - Onions
+
